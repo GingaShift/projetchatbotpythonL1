@@ -3,7 +3,7 @@
 - Noms et prénoms des membres de l'équipe projet
 
    - Eden Elfassy
-   - Adam Assayag
+  
 
 
 - Lien direct vers le dépôt Git de votre projet
